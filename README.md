@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Limeytea
 - 👀 I’m interested in python and c
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on a fps deathmatch made in c
+- 💞️ I’m looking to collaborate on nothing rn 
 - 📫 How to reach me github idiot 
 
 <!---
